@@ -1,10 +1,3 @@
-### Hi there 👋
-
-<!--
-**Jennyborda/Jennyborda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 comandos ejecutados en cada paso:
 1 pwd
 2 mkdir
